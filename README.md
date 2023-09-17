@@ -1,6 +1,6 @@
 # E6156 - Topics in SW Engineering: Cloud Computing<br>First Example Microservice
 
-__Author:__ Yizhi Wang (yw4174)
+__Author:__ Yizhi Wang
 
 ## Local Project Execution
 
